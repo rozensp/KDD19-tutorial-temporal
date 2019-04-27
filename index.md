@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# KDD 2019 tutorial
+
+## Instructors
+
+Aristides Gionis, Aalto University
+Polina Rozenshtein, Nordea Data Science Lab
+
 
 You can use the [editor on GitHub](https://github.com/rozensp/KDD19-tutorial-temporal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
