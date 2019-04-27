@@ -24,7 +24,7 @@ and open problems in the area, and we will highlight directions for future work.
 
 ## Tutorial slides
 
-## Links to relevant papers
+## Links to relevant papers:
 
 <!---
 We recommend making the title more "exciting" in order to attract a greater audience. 
@@ -40,7 +40,6 @@ Please consider making the tutorial more inclusive (including dynamic and stream
 time. Social Network Analysis and Mining, 8(1):61, 2018.
 - O. Michail. An introduction to temporal graphs: An algorithmic perspective. Internet Mathematics, 12(4):
 239–280, 2016.
-
 ### Models of temporal networks
 - C. Aggarwal and K. Subbian. Evolutionary network analysis: A survey. ACM Computing Surveys (CSUR), 47
 (1):10, 2014.
