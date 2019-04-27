@@ -40,6 +40,7 @@ Please consider making the tutorial more inclusive (including dynamic and stream
 time. Social Network Analysis and Mining, 8(1):61, 2018.
 - O. Michail. An introduction to temporal graphs: An algorithmic perspective. Internet Mathematics, 12(4):
 239–280, 2016.
+
 ### Models of temporal networks
 - C. Aggarwal and K. Subbian. Evolutionary network analysis: A survey. ACM Computing Surveys (CSUR), 47
 (1):10, 2014.
@@ -47,9 +48,6 @@ time. Social Network Analysis and Mining, 8(1):61, 2018.
 In Managing and mining graph data, pages 13–68. Springer, 2010.
 - R. Kumar, J. Novak, and A. Tomkins. Structure and evolution of online social networks. In Link mining:
 models, algorithms, and applications, pages 337–357. Springer, 2010.
-- P. Holme and J. Saramäki. Temporal networks. Physics reports, 519(3):97–125, 2012.
-- O. Michail. An introduction to temporal graphs: An algorithmic perspective. Internet Mathematics, 12(4):
-239–280, 2016.
 - S. A. Hill and D. Braha. Dynamic model of time-dependent complex networks. Physical Review E, 82(4):
 046105, 2010.
 - H.-H. Jo, R. K. Pan, and K. Kaski. Emergence of bursts and communities in evolving weighted networks. PloS
@@ -59,9 +57,6 @@ one, 6(8):e22687, 2011.
 9(7):e1003142, 2013.
 
 ### Network measures: characterization and computation
-- P. Holme and J. Saramäki. Temporal networks. Physics reports, 519(3):97–125, 2012.
-- M. Latapy, T. Viard, and C. Magnien. Stream graphs and link streams for the modeling of interactions over
-time. Social Network Analysis and Mining, 8(1):61, 2018.
 - H.-P. Hsieh and C.-T. Li. Mining temporal subgraph patterns in heterogeneous information networks. In 2010
 IEEE Second International Conference on Social Computing, pages 282–287. IEEE, 2010.
 - B. Wackersreuther, P. Wackersreuther, A. Oswald, C. Böhm, and K. M. Borgwardt. Frequent subgraph
