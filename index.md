@@ -26,6 +26,16 @@ and open problems in the area, and we will highlight directions for future work.
 
 ## Links to relevant papers
 
+### Key surveys, definitions, and applications
+
+### Models of temporal networks
+
+### Network measures: characterization and computation
+
+### Algorithmic approaches
+
+### Data Mining problems
+
 <!---
 You can use the [editor on GitHub](https://github.com/rozensp/KDD19-tutorial-temporal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
