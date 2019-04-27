@@ -2,10 +2,31 @@
 
 ## Instructors
 
-Aristides Gionis, Aalto University
-Polina Rozenshtein, Nordea Data Science Lab
+- Aristides Gionis, Aalto University
+- Polina Rozenshtein, Nordea Data Science Lab
 
+## Motivation
 
+Networks (or graphs) are used to represent and analyze large datasets of objects and their
+relations. Typical examples of graph applications come from social networks, traffic networks,
+electric power grids, road systems, the Internet, chemical and biological systems, and more.
+Naturally, real-world networks have a temporal component: for instance, interactions between
+objects have a timestamp and a duration. In this tutorial we will present models and algorithms
+for mining temporal networks, i.e., network data with temporal information. We will overview
+different models used to represent temporal networks. We will highlight the main differences
+between static and temporal networks, and discuss the challenges arising from introducing the
+temporal dimension in the network representation. We will present recent papers addressing
+the most well-studied problems in the setting of temporal networks, including computation
+of centrality measures, motif detection and counting, community detection and monitoring,
+event and anomaly detection, analysis of epidemic processes and influence spreading, network
+summarization, and structure prediction. Finally, we will discuss some of the current challenges
+and open problems in the area, and we will highlight directions for future work.
+
+## Tutorial slides
+
+## Links to relevant papers
+
+<!---
 You can use the [editor on GitHub](https://github.com/rozensp/KDD19-tutorial-temporal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -41,3 +62,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
