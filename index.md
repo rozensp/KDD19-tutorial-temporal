@@ -41,16 +41,16 @@ time. Social Network Analysis and Mining](https://arxiv.org/pdf/1710.04073.pdf),
 - O. Michail. [An introduction to temporal graphs: An algorithmic perspective](https://arxiv.org/pdf/1503.00278.pdf). Internet Mathematics, 2016.
 
 ### Models of temporal networks
-- C. Aggarwal and K. Subbian. Evolutionary network analysis: A survey. ACM Computing Surveys (CSUR), 2014.
-- C. C. Aggarwal and H. Wang. Graph data management and mining: A survey of algorithms and applications.
+- C. Aggarwal and K. Subbian. [Evolutionary network analysis: A survey](http://charuaggarwal.net/CSUR-2013-0157.pdf). ACM Computing Surveys (CSUR), 2014.
+- C. C. Aggarwal and H. Wang. [Graph data management and mining: A survey of algorithms and applications](https://www.researchgate.net/profile/Charu_Aggarwal/publication/226186048_Graph_Data_Management_and_Mining_A_Survey_of_Algorithms_and_Applications/links/0deec52415b17b7029000000/Graph-Data-Management-and-Mining-A-Survey-of-Algorithms-and-Applications.pdf).
 In Managing and mining graph data, 2010.
-- R. Kumar, J. Novak, and A. Tomkins. Structure and evolution of online social networks. In Link mining:
+- R. Kumar, J. Novak, and A. Tomkins. [Structure and evolution of online social networks](http://staff.icar.cnr.it/manco/Teaching/sn/seminari/KNT06.pdf). In Link mining:
 models, algorithms, and applications, 2010.
-- S. A. Hill and D. Braha. Dynamic model of time-dependent complex networks. Physical Review, 2010.
-- H.-H. Jo, R. K. Pan, and K. Kaski. Emergence of bursts and communities in evolving weighted networks. PloS
+- S. A. Hill and D. Braha. [Dynamic model of time-dependent complex networks](https://arxiv.org/pdf/0901.4407.pdf). Physical Review, 2010.
+- H.-H. Jo, R. K. Pan, and K. Kaski. [Emergence of bursts and communities in evolving weighted networks](https://s3.amazonaws.com/academia.edu.documents/43180878/Emergence_of_Bursts_and_Communities_in_E20160228-25035-h5xlh2.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1556391483&Signature=KY4ls%2FyKUa4gBIz1MkA9T%2BL%2B2e0%3D&response-content-disposition=inline%3B%20filename%3DEmergence_of_Bursts_and_Communities_in_E.pdf). PloS
 one, 2011.
-- A.-L. Barabási et al. Network science. Cambridge university press, 2016.
-- P. Holme. Epidemiologically optimal static networks from temporal network data. PLoS computational biology, 2013.
+- A.-L. Barabási et al. [Network science](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.9529&rep=rep1&type=pdf). Cambridge university press, 2016.
+- P. Holme. [Epidemiologically optimal static networks from temporal network data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.813.7544&rep=rep1&type=pdf). PLoS computational biology, 2013.
 
 ### Network measures: characterization and computation
 - H.-P. Hsieh and C.-T. Li. Mining temporal subgraph patterns in heterogeneous information networks. In 2010
