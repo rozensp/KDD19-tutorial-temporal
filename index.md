@@ -11,16 +11,16 @@ Networks (or graphs) are used to represent and analyze large datasets of objects
 relations. Typical examples of graph applications come from social networks, traffic networks,
 electric power grids, road systems, the Internet, chemical and biological systems, and more.
 Naturally, real-world networks have a temporal component: for instance, interactions between
-objects have a timestamp and a duration. In this tutorial we will present models and algorithms
-for mining temporal networks, i.e., network data with temporal information. We will overview
-different models used to represent temporal networks. We will highlight the main differences
+objects have a timestamp and a duration. In this tutorial we present models and algorithms
+for mining temporal networks, i.e., network data with temporal information. We overview
+different models used to represent temporal networks. We highlight the main differences
 between static and temporal networks, and discuss the challenges arising from introducing the
-temporal dimension in the network representation. We will present recent papers addressing
+temporal dimension in the network representation. We present recent papers addressing
 the most well-studied problems in the setting of temporal networks, including computation
 of centrality measures, motif detection and counting, community detection and monitoring,
 event and anomaly detection, analysis of epidemic processes and influence spreading, network
-summarization, and structure prediction. Finally, we will discuss some of the current challenges
-and open problems in the area, and we will highlight directions for future work.
+summarization, and structure prediction. Finally, we discuss some of the current challenges
+and open problems in the area, and we highlight directions for future work.
 
 ## Tutorial slides
 
