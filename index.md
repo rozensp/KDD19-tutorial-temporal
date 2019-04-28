@@ -53,20 +53,20 @@ one, 2011.
 - P. Holme. [Epidemiologically optimal static networks from temporal network data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.813.7544&rep=rep1&type=pdf). PLoS computational biology, 2013.
 
 ### Network measures: characterization and computation
-- H.-P. Hsieh and C.-T. Li. Mining temporal subgraph patterns in heterogeneous information networks. In 2010
+- H.-P. Hsieh and C.-T. Li. [Mining temporal subgraph patterns in heterogeneous information networks](https://ieeexplore.ieee.org/document/5591222). In 2010
 IEEE Second International Conference on Social Computing, 2010.
-- B. Wackersreuther, P. Wackersreuther, A. Oswald, C. Böhm, and K. M. Borgwardt. Frequent subgraph
-discovery in dynamic networks. In Proceedings of the Eighth Workshop on Mining and Learning with Graphs, 2010.
-- M. Berlingerio, F. Bonchi, B. Bringmann, and A. Gionis. Mining graph evolution rules. In joint European
+- B. Wackersreuther, P. Wackersreuther, A. Oswald, C. Böhm, and K. M. Borgwardt. [Frequent subgraph
+discovery in dynamic networks](http://www.dbs.ifi.lmu.de/Publikationen/Boehm/KDD-MLG_10.pdf). In Proceedings of the Eighth Workshop on Mining and Learning with Graphs, 2010.
+- M. Berlingerio, F. Bonchi, B. Bringmann, and A. Gionis. [Mining graph evolution rules](https://core.ac.uk/download/pdf/34450269.pdf). In joint European
 conference on machine learning and knowledge discovery in databases, 2009.
-- A. Impedovo, C. Loglisci, and M. Ceci. Temporal pattern mining from evolving networks. arXiv preprint, 2017.
+- A. Impedovo, C. Loglisci, and M. Ceci. [Temporal pattern mining from evolving networks](https://pdfs.semanticscholar.org/cedd/f3e4ad8787739d118976c38c3c155ab37d96.pdf). arXiv preprint, 2017.
 
 ### Algorithmic approaches
-- R. Kumar, T. Calders, A. Gionis, and N. Tatti. Maintaining sliding-window neighborhood profiles in
-interaction networks. In Joint European Conference on Machine Learning and Knowledge Discovery in
+- R. Kumar, T. Calders, A. Gionis, and N. Tatti. [Maintaining sliding-window neighborhood profiles in
+interaction networks](). In Joint European Conference on Machine Learning and Knowledge Discovery in
 Databases, 2015.
-- A. McGregor. Graph stream algorithms: a survey. ACM SIGMOD Record, 2014.
-- O. Michail. An introduction to temporal graphs: An algorithmic perspective. Internet Mathematics, 2016.
+- A. McGregor. [Graph stream algorithms: a survey](http://rohit13k.github.io/doc/swn.pdf). ACM SIGMOD Record, 2014.
+- O. Michail. [An introduction to temporal graphs: An algorithmic perspective](http://students.ceid.upatras.gr/~michailo/Documents/Papers/Journals/im16.pdf). Internet Mathematics, 2016.
 
 ### Data Mining problems
 - G. Rossetti and R. Cazabet. Community discovery in dynamic networks: a survey. ACM Computing Surveys
