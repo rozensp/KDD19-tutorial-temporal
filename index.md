@@ -69,41 +69,41 @@ Databases, 2015.
 - O. Michail. [An introduction to temporal graphs: An algorithmic perspective](http://students.ceid.upatras.gr/~michailo/Documents/Papers/Journals/im16.pdf). Internet Mathematics, 2016.
 
 ### Data Mining problems
-- G. Rossetti and R. Cazabet. Community discovery in dynamic networks: a survey. ACM Computing Surveys
+- G. Rossetti and R. Cazabet. [Community discovery in dynamic networks: a survey](https://arxiv.org/pdf/1707.03186.pdf). ACM Computing Surveys
 (CSUR), 2018.
-- P. Rozenshtein, N. Tatti, and A. Gionis. Finding dynamic dense subgraphs. ACM Transactions on Knowledge
+- P. Rozenshtein, N. Tatti, and A. Gionis. [Finding dynamic dense subgraphs](http://users.ics.aalto.fi/gionis/dynamic-dense.pdf). ACM Transactions on Knowledge
 Discovery from Data (TKDD), 2017.
-- L. Akoglu, H. Tong, and D. Koutra. Graph based anomaly detection and description: a survey. Data mining
+- L. Akoglu, H. Tong, and D. Koutra. [Graph based anomaly detection and description: a survey](https://www.andrew.cmu.edu/user/lakoglu/pubs/14-dami-graphanomalysurvey.pdf). Data mining
 and knowledge discovery, 2015.
-- M. Cordeiro and J. Gama. Online social networks event detection: a survey. In Solving Large Scale Learning
+- M. Cordeiro and J. Gama. [Online social networks event detection: a survey](https://repositorio.inesctec.pt/bitstream/123456789/5334/1/P-00K-M7Y.pdf). In Solving Large Scale Learning
 Tasks. Challenges and Algorithms, 2016.
-- A. Goswami and A. Kumar. A survey of event detection techniques in online social networks. Social Network
+- A. Goswami and A. Kumar. [A survey of event detection techniques in online social networks](https://link.springer.com/article/10.1007/s13278-016-0414-1). Social Network
 Analysis and Mining, 2016.
-- A. Nurwidyantoro and E. Winarko. Event detection in social media: A survey. In International Conference on
+- A. Nurwidyantoro and E. Winarko. [Event detection in social media: A survey](). In International Conference on
 ICT for Smart Society, 2013.
-- P. Rozenshtein, A. Anagnostopoulos, A. Gionis, and N. Tatti. Event detection in activity networks. In
+- P. Rozenshtein, A. Anagnostopoulos, A. Gionis, and N. Tatti. [Event detection in activity networks](). In
 Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining, 2014.
-- H. Xiao, P. Rozenshtein, and A. Gionis. Discovering topically-and temporally-coherent events in interaction
-networks. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2016.
-- S. Lee, L. E. Rocha, F. Liljeros, and P. Holme. Exploiting temporal network structures of human interaction to
-effectively immunize populations. PloS one, 2012.
-- A. Nurwidyantoro and E. Winarko. Event detection in social media: A survey. In International Conference on
+- H. Xiao, P. Rozenshtein, and A. Gionis. [Discovering topically-and temporally-coherent events in interaction
+networks](). In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2016.
+- S. Lee, L. E. Rocha, F. Liljeros, and P. Holme. [Exploiting temporal network structures of human interaction to
+effectively immunize populations](). PloS one, 2012.
+- A. Nurwidyantoro and E. Winarko. [Event detection in social media: A survey](). In International Conference on
 ICT for Smart Society, 2013.
-- P. Rozenshtein, A. Gionis, B. A. Prakash, and J. Vreeken. Reconstructing an epidemic over time. In
+- P. Rozenshtein, A. Gionis, B. A. Prakash, and J. Vreeken. [Reconstructing an epidemic over time](). In
 Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2016.
-- H. Xiao, P. Rozenshtein, N. Tatti, and A. Gionis. Reconstructing a cascade from temporal observations. In
+- H. Xiao, P. Rozenshtein, N. Tatti, and A. Gionis. [Reconstructing a cascade from temporal observations](). In
 Proceedings of the 2018 SIAM International Conference on Data Mining, 2018.
-- Y. Liu, T. Safavi, A. Dighe, and D. Koutra. Graph summarization methods and applications: A survey. ACM
+- Y. Liu, T. Safavi, A. Dighe, and D. Koutra. [Graph summarization methods and applications: A survey](). ACM
 Computing Surveys (CSUR), 2018.
-- P. Rozenshtein, N. Tatti, and A. Gionis. The network-untangling problem: From interactions to activity
-timelines. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2017.
-- P. Rozenshtein, F. Bonchi, A. Gionis, M. Sozio, and N. Tatti. Finding events in temporal networks:
-Segmentation meets densest-subgraph discovery. In 2018 IEEE International Conference on Data Mining
+- P. Rozenshtein, N. Tatti, and A. Gionis. [The network-untangling problem: From interactions to activity
+timelines](). In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2017.
+- P. Rozenshtein, F. Bonchi, A. Gionis, M. Sozio, and N. Tatti. [Finding events in temporal networks:
+Segmentation meets densest-subgraph discovery](). In 2018 IEEE International Conference on Data Mining
 (ICDM), 2018.
-- Y. Dhote, N. Mishra, and S. Sharma. Survey and analysis of temporal link prediction in online social networks.
+- Y. Dhote, N. Mishra, and S. Sharma. [Survey and analysis of temporal link prediction in online social networks]().
 In 2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI), 2013.
-- L. Zhu, D. Guo, J. Yin, G. Ver Steeg, and A. Galstyan. Scalable temporal latent space inference for link
-prediction in dynamic social networks. IEEE Transactions on Knowledge and Data Engineering, 2016.
+- L. Zhu, D. Guo, J. Yin, G. Ver Steeg, and A. Galstyan. [Scalable temporal latent space inference for link
+prediction in dynamic social networks](). IEEE Transactions on Knowledge and Data Engineering, 2016.
 
 
 <!---
