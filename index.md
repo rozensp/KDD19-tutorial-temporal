@@ -79,31 +79,31 @@ and knowledge discovery, 2015.
 Tasks. Challenges and Algorithms, 2016.
 - A. Goswami and A. Kumar. [A survey of event detection techniques in online social networks](https://link.springer.com/article/10.1007/s13278-016-0414-1). Social Network
 Analysis and Mining, 2016.
-- A. Nurwidyantoro and E. Winarko. [Event detection in social media: A survey](). In International Conference on
+- A. Nurwidyantoro and E. Winarko. [Event detection in social media: A survey](https://ieeexplore.ieee.org/abstract/document/6588106). In International Conference on
 ICT for Smart Society, 2013.
-- P. Rozenshtein, A. Anagnostopoulos, A. Gionis, and N. Tatti. [Event detection in activity networks](). In
+- P. Rozenshtein, A. Anagnostopoulos, A. Gionis, and N. Tatti. [Event detection in activity networks](https://users.ics.aalto.fi/gionis/events.pdf). In
 Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining, 2014.
 - H. Xiao, P. Rozenshtein, and A. Gionis. [Discovering topically-and temporally-coherent events in interaction
-networks](). In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2016.
+networks](https://arxiv.org/pdf/1606.09446.pdf). In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2016.
 - S. Lee, L. E. Rocha, F. Liljeros, and P. Holme. [Exploiting temporal network structures of human interaction to
-effectively immunize populations](). PloS one, 2012.
-- A. Nurwidyantoro and E. Winarko. [Event detection in social media: A survey](). In International Conference on
-ICT for Smart Society, 2013.
-- P. Rozenshtein, A. Gionis, B. A. Prakash, and J. Vreeken. [Reconstructing an epidemic over time](). In
+effectively immunize populations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.270.2078&rep=rep1&type=pdf). PloS one, 2012.
+- M. G. Rodriguez and B. Schölkopf. [Influence maximization in continuous time diffusion networks](https://people.mpi-sws.org/~manuelgr/pubs/influmax-icml12.pdf). arXiv
+preprint arXiv:1205.1682, 2012.
+- P. Rozenshtein, A. Gionis, B. A. Prakash, and J. Vreeken. [Reconstructing an epidemic over time](https://www.kdd.org/kdd2016/papers/files/rpp0920-rozenshteinAT3.pdf). In
 Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2016.
-- H. Xiao, P. Rozenshtein, N. Tatti, and A. Gionis. [Reconstructing a cascade from temporal observations](). In
+- H. Xiao, P. Rozenshtein, N. Tatti, and A. Gionis. [Reconstructing a cascade from temporal observations](https://arxiv.org/pdf/1801.08586.pdf). In
 Proceedings of the 2018 SIAM International Conference on Data Mining, 2018.
-- Y. Liu, T. Safavi, A. Dighe, and D. Koutra. [Graph summarization methods and applications: A survey](). ACM
+- Y. Liu, T. Safavi, A. Dighe, and D. Koutra. [Graph summarization methods and applications: A survey](https://arxiv.org/pdf/1612.04883.pdf). ACM
 Computing Surveys (CSUR), 2018.
 - P. Rozenshtein, N. Tatti, and A. Gionis. [The network-untangling problem: From interactions to activity
-timelines](). In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2017.
+timelines](http://ecmlpkdd2017.ijs.si/papers/paperID443.pdf). In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2017.
 - P. Rozenshtein, F. Bonchi, A. Gionis, M. Sozio, and N. Tatti. [Finding events in temporal networks:
-Segmentation meets densest-subgraph discovery](). In 2018 IEEE International Conference on Data Mining
+Segmentation meets densest-subgraph discovery](https://arxiv.org/pdf/1808.09317.pdf). In 2018 IEEE International Conference on Data Mining
 (ICDM), 2018.
-- Y. Dhote, N. Mishra, and S. Sharma. [Survey and analysis of temporal link prediction in online social networks]().
+- Y. Dhote, N. Mishra, and S. Sharma. [Survey and analysis of temporal link prediction in online social networks](https://www.researchgate.net/publication/226566834_A_Survey_of_Link_Prediction_in_Social_Networks).
 In 2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI), 2013.
 - L. Zhu, D. Guo, J. Yin, G. Ver Steeg, and A. Galstyan. [Scalable temporal latent space inference for link
-prediction in dynamic social networks](). IEEE Transactions on Knowledge and Data Engineering, 2016.
+prediction in dynamic social networks](https://arxiv.org/pdf/1411.3675.pdf). IEEE Transactions on Knowledge and Data Engineering, 2016.
 
 
 <!---
