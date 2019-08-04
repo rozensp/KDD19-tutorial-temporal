@@ -22,7 +22,7 @@ event and anomaly detection, analysis of epidemic processes and influence spread
 summarization, and structure prediction. Finally, we discuss some of the current challenges
 and open problems in the area, and we highlight directions for future work.
 
-## [Tutorial slides](https://www.dropbox.com/s/wujndpfo2rujcah/kdd-tutorial.pdf)
+## [Tutorial slides](kdd-tutorial.pdf)
 
 ## Links to relevant papers:
 
