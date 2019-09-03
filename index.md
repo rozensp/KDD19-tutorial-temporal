@@ -1,5 +1,5 @@
 <!---
-# Minimg temporal networks tutorial
+# Mining temporal networks tutorial
 --->
 ## Instructors
 
