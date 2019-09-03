@@ -1,5 +1,6 @@
+<!---
 # Minimg temporal networks tutorial
-
+--->
 ## Instructors
 
 - [Aristides Gionis](https://users.ics.aalto.fi/gionis/), Aalto University
