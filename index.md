@@ -1,4 +1,4 @@
-# Minimg temopral networks tutorial
+# Minimg temporal networks tutorial
 
 ## Instructors
 
