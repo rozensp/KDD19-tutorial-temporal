@@ -1,4 +1,4 @@
-# KDD 2019 tutorial
+# Minimg temopral networks tutorial
 
 ## Instructors
 
@@ -22,7 +22,8 @@ event and anomaly detection, analysis of epidemic processes and influence spread
 summarization, and structure prediction. Finally, we discuss some of the current challenges
 and open problems in the area, and we highlight directions for future work.
 
-## [Tutorial slides](kdd-tutorial.pdf)
+## [KDD19 tutorial slides](kdd-tutorial.pdf)
+## [EDBT19 summer school tutorial slides](kdd-tutorial.pdf)
 
 ## Links to relevant papers:
 
