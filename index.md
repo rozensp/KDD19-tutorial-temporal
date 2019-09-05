@@ -24,7 +24,7 @@ summarization, and structure prediction. Finally, we discuss some of the current
 and open problems in the area, and we highlight directions for future work.
 
 ## [KDD19 tutorial slides](kdd-tutorial.pdf)
-## [EDBT19 summer school tutorial slides](kdd-tutorial.pdf)
+## [EDBT19 summer school tutorial slides](edbt-tutorial.pdf)
 
 ## Links to relevant papers:
 
