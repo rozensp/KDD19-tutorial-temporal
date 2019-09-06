@@ -1,3 +1,3 @@
-# KDD19-tutorial-temporal
+# temporal-networks-tutorial
 
-https://rozensp.github.io/KDD19-tutorial-temporal/
+https://rozensp.github.io/temporal-networks-tutorial/
